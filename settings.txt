@@ -1,0 +1,5 @@
+
+#firefox
+# layers.acceleration.force-enabled=true
+gfx.xrender.enabled=true
+mousewheel.min_line_scroll_amount=200
